@@ -1,3 +1,4 @@
+TAKSİMETRE HESAPLAMA KODLARI
 import java.util.Scanner;
 public class Main {
 
